@@ -1,4 +1,7 @@
 [Link do projeto Online](https://tiktok---jornada-17bc6.web.app/).
+[material Icons](https://mui.com/material-ui/material-icons/).
+[firebase](https://firebase.google.com/?hl=pt-br).
+
 
 # Getting Started with Create React App
 
